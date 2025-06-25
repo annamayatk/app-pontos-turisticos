@@ -5,14 +5,6 @@ O app apresenta alguns dos pontos turísticos mais conhecidos da cidade de Petr�
 
 ---
 
-## ✨ Funcionalidades
-
-- 📍 Navegação entre páginas com menu lateral (Drawer)
-- 🖼️ Telas com imagens e descrições dos pontos turísticos
-- 📁 Estrutura organizada em componentes e estilos separados
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 - [React Native](https://reactnative.dev/)
