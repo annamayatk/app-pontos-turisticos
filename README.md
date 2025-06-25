@@ -52,6 +52,7 @@ bash
 Copiar
 Editar
 npm install -g expo-cli
+
 👩‍💻 Desenvolvido por
 Anna May Atkinson
 Residência em Software – Serratec (2025)
