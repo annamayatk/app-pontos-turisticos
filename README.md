@@ -28,30 +28,25 @@ O app apresenta alguns dos pontos turísticos mais conhecidos da cidade de Petr�
 
 ```bash
 git clone https://github.com/annamayatk/app-pontos-turisticos.git
+```
 Acesse a pasta do projeto:
 
-bash
-Copiar
-Editar
-cd app-pontos-turisticos
+```cd app-pontos-turisticos```
+
 Instale as dependências:
 
-bash
-Copiar
-Editar
-npm install
-Inicie o app com o Expo:
 
-bash
-Copiar
-Editar
+```npm install```
+
+Inicie o app com o Expo:
+```
 npx expo start
+```
 ⚠️ Obs.: É necessário ter o Node.js instalado. O Expo CLI pode ser instalado com:
 
-bash
-Copiar
-Editar
+```
 npm install -g expo-cli
+```
 
 👩‍💻 Desenvolvido por
 Anna May Atkinson
