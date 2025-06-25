@@ -23,12 +23,16 @@ git clone https://github.com/annamayatk/app-pontos-turisticos.git
 ```
 Acesse a pasta do projeto:
 
-```cd app-pontos-turisticos```
+```
+cd app-pontos-turisticos
+```
 
 Instale as dependências:
 
 
-```npm install```
+```
+npm install
+```
 
 Inicie o app com o Expo:
 ```
